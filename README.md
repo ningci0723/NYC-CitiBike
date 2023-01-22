@@ -17,7 +17,7 @@ Please find the Tableau story by using below link.
 
 ![Gender Breakdown](https://github.com/ningci0723/NYC-CitiBike/blob/main/image/Gender%20Breakdown.png)
 
-2. Below map displays the bike start stations. The size of the circles and darkness of the blue indicate the relative number of trips started at those locations. It seems like the popular bike start locations are in the Lower Manhattan as there may be more towering office and residential buildings and using bike is more convenient than using a car or taxi.
+2. Below map displays the bike start stations. The darkness of the blue indicate the relative number of trips started at those locations. It seems like the popular bike start locations are in the Lower Manhattan as there may be more towering office and residential buildings and using bike is more convenient than using a car or taxi.
 
 ![Top Start Location](https://github.com/ningci0723/NYC-CitiBike/blob/main/image/Top%20Start%20Location.png)
 

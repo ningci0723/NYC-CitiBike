@@ -29,7 +29,7 @@ Please find the Tableau story by using below link.
 
 ![Checkout Times for Gender](https://github.com/ningci0723/NYC-CitiBike/blob/main/image/Checkout%20Times%20by%20Gender.png)
 
-5. Below graph shows the number of bike trips by weekday for each hour of the day as a heatmap. We can see that the heavy bike usage during the weekday commute times which are around 8am in the morning and 5-6pm in the evening, and weekend usage is spread throughout the middle of the day. Also there is a low-usage time in the early morning of every day of the week.
+5. Below graph shows the number of bike trips by weekday for each hour of the day as a heatmap. We can see that the heavy bike usage are during the weekday commute times which are around 8am in the morning and 5-6pm in the evening, and weekend usage is spread throughout the middle of the day. Also there is a low-usage time in the early morning of every day of the week.
 
 ![Trips by Weekday for Each Hour](https://github.com/ningci0723/NYC-CitiBike/blob/main/image/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
